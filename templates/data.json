@@ -9,15 +9,4 @@
     "height": 200,
     "priority": 1
   }
-},
-{
-  "strawberry": {
-    "draw": true,
-    "name": "strawberry.png",
-    "repair": true,
-    "y": 5855,
-    "x": -4095,
-    "width": 200,
-    "height": 200,
-    "priority": 1
-  }
+}
