@@ -6,9 +6,9 @@
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/rewad9810/Pixelcanvas-Minimap/
-// @updateURL    https://raw.githubusercontent.com/rewad9810/Pixelcanvas-Minimap/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/rewad9810/Pixelcanvas-Minimap/master/minimap.user.js
+// @homepage     https://github.com/rewad9810/minimap/
+// @updateURL    https://raw.githubusercontent.com/rewad9810/minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/rewad9810/minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
 //https://raw.githubusercontent.com/user/repository/branch/filename
 //https://raw.githubusercontent.com/rewad9810/Pixelcanvas-Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/rewad9810/Pixelcanvas-Minimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/rewad9810/minimap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
